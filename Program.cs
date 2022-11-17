@@ -50,7 +50,7 @@ int[]arr= new int[j-1];
 
     }
 
-     System.Console.WriteLine(arr);
- System.Console.WriteLine(arr[3]);
+//      System.Console.WriteLine(arr);
+//  System.Console.WriteLine(arr[2]); вывод 3 цифры
 
 }
