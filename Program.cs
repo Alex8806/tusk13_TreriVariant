@@ -41,11 +41,12 @@ int[]arr= new int[j-1];
          t = number / b;
         number -= (t*b);
       
-       
+       //arr[k] = t;
+
        j--;
        k++;
         System.Console.WriteLine (t);
-
+        
 
     }
 
